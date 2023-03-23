@@ -8,6 +8,8 @@ This may be a positive resonance, or a negative one - something that makes you h
 
 Something that shows success or something that raises a concern.
 
+It could be something that surprises you, is informative, something that you feel we can act on, or something that is beyond us.
+
 But please pick something, and explain why - with some kind of reaction - if you would.
 
 Just give me the section **give**, **discuss**, **open** and the number and the reason / reaction.
