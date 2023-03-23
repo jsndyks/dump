@@ -10,6 +10,8 @@ Something that shows success or something that raises a concern.
 
 But please pick something, and explain why - with some kind of reaction - if you would.
 
+Just give me the section **give**, **discuss**, **open** and the number and the reason / reaction.
+
 **Jason**
 
 <style>
