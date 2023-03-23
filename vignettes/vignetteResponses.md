@@ -15,7 +15,7 @@ Just give me the section **give**, **discuss**, **open** and the number and the 
 **Jason**
 
 <style>
-   li {margin-left:2em; padding-left:1em; padding-top:0.5em; padding-bottom:0.5em; font-size:90%} 
+   li {margin-left:2em; padding-left:1em; padding-top:4px; padding-bottom:4px; font-size:90%} 
 </style>
 
 ---
