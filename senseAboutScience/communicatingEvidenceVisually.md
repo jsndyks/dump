@@ -65,7 +65,7 @@ I like the affective learning objectives approach, which gets us to be explicit 
 ### COMPREHENSION & MISUNDERSTANDING
 
 You cannot guarantee that graphics will not be used to misinform or that they will not be misinterpreted, as is the case with text - which can be used for misinformation and in some cases will do more harm than good.
-_How to Lie with Maps_ - \__Dennis Wood_’s\_ classic book - reminds us that bias and propaganda are well known phenomena in cartography. There are loads of research papers on this, but the most important message is that it’s complicated and unpredictable!
+_How to Lie with Maps_ - **Dennis Wood**’s classic book - reminds us that bias and propaganda are well known phenomena in cartography. There are loads of research papers on this, but the most important message is that it’s complicated and unpredictable!
 
 See here for an example that attempts to study, explain and quantify some of this:
 
@@ -99,16 +99,14 @@ Some places to look include:
 
 ### VISUALIZING UNCERTAINTY
 
-I would definitely look at \__Jessica Hullman_’s\_ excellent work on uncertainty, she is running a group that is galloping towards evidence-based guidelines and approaches that should be useful to policymakers and government.For example, see …
+I would definitely look at **Jessica Hullman**'s excellent work on uncertainty, she is running a group that is galloping towards evidence-based guidelines and approaches that should be useful to policymakers and government.For example, see …
 
 > Hullman, J., & Diakopoulos, N. (2011). Visualization rhetoric: Framing effects in narrative visualization. IEEE Transactions on Visualization and Computer Graphics, 17(12), 2231-2240.
 
 > Hullman, J., Drucker, S., Riche, N. H., Lee, B., Fisher, D., & Adar, E. (2013). A deeper understanding of sequence in narrative visualization. IEEE Transactions on Visualization and Computer Graphics, 19(12), 2406-2415.
 
-> Kay, M., Kola, T., Hullman, J. R., & Munson, S. A. (2016, May). When (ish) is my bus? User-centered visualizations of uncertainty in everyday, mobile predictive systems. In Proceedings of the 2016 chi conference on human factors in computing systems (pp. 5092-5103).
-
-Many papers have 30 second video summaries … again - useful!<br/>
-[https://youtu.be/jr50GY5RYI8](https://youtu.be/jr50GY5RYI8)
+> Kay, M., Kola, T., Hullman, J. R., & Munson, S. A. (2016, May). When (ish) is my bus? User-centered visualizations of uncertainty in everyday, mobile predictive systems. In Proceedings of the 2016 chi conference on human factors in computing systems (pp. 5092-5103).<br/>
+> Many papers have 30 second video summaries … again - useful!<br/> > [https://youtu.be/jr50GY5RYI8](https://youtu.be/jr50GY5RYI8)
 
 ### OTHER OTHER EFFECTS 😉
 
@@ -132,7 +130,7 @@ There is a fair amount of work on visualization of **Bayesian** stats and reason
 
 > Ottley, A., Peck, E. M., Harrison, L. T., Afergan, D., Ziemkiewicz, C., Taylor, H. A., ... & Chang, R. (2015). Improving Bayesian reasoning: The effects of phrasing, visualization, and spatial ability.  IEEE Transactions on Visualization and Computer Graphics, 22(1), 529-538.
 
-We also discussed **“Text or Words”** and **Prof.\_ \_Marti Hearst**, Head of School of Information at Berkeley, had plenty of useful things to say at IEEEVIS in 2022.
+We also discussed **“Text or Words”** and **Prof. Marti Hearst**, Head of School of Information at Berkeley, had plenty of useful things to say at IEEEVIS in 2022.
 Her _“Show it or Tell it?_” keynote on words and graphics is an hour long bu provides an excellent overview.<br/>
 [https://www.youtube.com/watch?v=BDTEkT8p4Gs](https://www.youtube.com/watch?v=BDTEkT8p4Gs)
 
@@ -148,7 +146,7 @@ Her _“Show it or Tell it?_” keynote on words and graphics is an hour long bu
 
 I strongly would recommend connecting with the **Edinburgh** group - they are great.
 The _VisHub at Edinburgh_ is exciting - good researchers and good connections between art, science, design and Vis.<br/>
-[https://vishub.net/](https://vishub.net/)
+[https://vishub.net/](https://vishub.net/)<br/>
 They are also hosting the _Information+_ conference this year - and you should get along!<br/>
 [https://informationplusconference.com/2023/](https://informationplusconference.com/2023/)
 
