@@ -32,8 +32,8 @@ OK - on to yesterday’s questions and discussion …
 
 VIS research involves enabling technology and algorithms, human experiments that help us understand likely responses to graphics, design work that develops viable approaches in particular applied contexts and reports upon what is learned, and engineering in which systems and workflows are designed and developed that draw upon all of this to make sense of data in particular contexts, and give tools and capabilities to others so that they can do the same.
 We try to develop guidelines and theory through all of this.
-It is best captured and indeed supported by the annual conference IEEE VIS and associated journal IEEE Transactions in Visualization and Computer Graphics.
-You can see some of what we have done on our painfully outdated Web pages: https://www.gicentre.net/featuredpapers/
+It is best captured and indeed supported by the annual conference [IEEE VIS](https://ieeevis.org/) and associated journal _IEEE Transactions in Visualization and Computer Graphics_.
+You can see some of what we have done on our painfully outdated Web pages: [https://www.gicentre.net/featuredpapers/](https://www.gicentre.net/featuredpapers/)
 
 To answer the specific questions that were listed on the agenda, from a _VIS research_ (_"evidence based"_) perspective …
 
@@ -61,8 +61,10 @@ I like the affective learning objectives approach, which gets us to be explicit 
 
 Most VIS papers have an accompanying presentation video - useful!
 https://youtu.be/2MJlzAd9Ua0
+
 Or see it live!
 https://youtu.be/Hcx-DoHkWuk?t=1178
+
 Or, _if you only have 30 seconds_, try the teaser trailer!
 https://youtu.be/UrW92ubvSdo
 
@@ -77,7 +79,7 @@ See here for an example that attempts to study, explain and quantify some of thi
 > https://youtu.be/7ISD9WtYChI - worth 30 seconds!
 > https://youtu.be/xBSZC2jj_wc - 12 min paper
 
-OTHER EFFECTS
+### OTHER EFFECTS
 
 There are numerous other effects that are known and understood with different levels of clarity:
 
@@ -94,8 +96,7 @@ There are numerous other effects that are known and understood with different le
 There is a nice framework here :
 
 > Dimara, E., Franconeri, S., Plaisant, C., Bezerianos, A., & Dragicevic, P. (2018). A task-based taxonomy of cognitive biases for information visualization. IEEE Transactions on Visualization and Computer Graphics, 26(2), 1413-1432.
-> https://vimeo.com/373008296
-> https://vimeo.com/364568413
+> https://vimeo.com/373008296 > https://vimeo.com/364568413
 
 Some places to look include:
 
@@ -111,14 +112,14 @@ I would definitely look at _Jessica Hullman_’s excellent work on uncertainty, 
 
 > Hullman, J., & Diakopoulos, N. (2011). Visualization rhetoric: Framing effects in narrative visualization. IEEE Transactions on Visualization and Computer Graphics, 17(12), 2231-2240.
 
-Hullman, J., Drucker, S., Riche, N. H., Lee, B., Fisher, D., & Adar, E. (2013). A deeper understanding of sequence in narrative visualization. IEEE Transactions on Visualization and Computer Graphics, 19(12), 2406-2415.
+> Hullman, J., Drucker, S., Riche, N. H., Lee, B., Fisher, D., & Adar, E. (2013). A deeper understanding of sequence in narrative visualization. IEEE Transactions on Visualization and Computer Graphics, 19(12), 2406-2415.
 
 > Kay, M., Kola, T., Hullman, J. R., & Munson, S. A. (2016, May). When (ish) is my bus? User-centered visualizations of uncertainty in everyday, mobile predictive systems. In Proceedings of the 2016 chi conference on human factors in computing systems (pp. 5092-5103).
 
 Many papers have 30 second video summaries … again - useful!
 https://youtu.be/jr50GY5RYI8
 
-### OTHER OTHER EFFECTS
+### OTHER OTHER EFFECTS 😉
 
 _Cindy Xiong_ (along with some of the above) is doing some great work on ‘other effects’ - for example:
 
@@ -131,6 +132,8 @@ _Cindy Xiong_ (along with some of the above) is doing some great work on ‘othe
 > https://vimeo.com/370881473
 
 ### VARIOUS
+
+Some other ideas came to mind during the meeting ... so I jotted down some additional notes ...
 
 **Concrete scales** are interesting and were suggested yesterday (balloons) - they seem to have potential:
 
@@ -221,10 +224,13 @@ Make them, expose them, communicate them, have them tested, use vis well. That�
 Vis gives us language for this.
 
 Somewhere you asked …
+
 _“Does it [visualization] help or hinder communication”_?
+
 Well, there is scope for both.
 But it does make policy and decision-making more open.
 (If your designs are adequate)
+
 You can’t have your cake and eat it - more open, means more open to question, more scrutinised, and I think we should welcome that.
 Being more open exposes you to more scrutiny and if your arguments don’t hold up, your narrative is challenged, you’ll be called out.
 That has to be good for society and for democracy!
