@@ -171,20 +171,23 @@ e.g. Changing the encoding (visualization) should not change the interpretation 
 Perhaps more accessible and useful are the science informed sites and blogs … there are loads of these:
 great sites and resources that take the science and explain it well - with functionality to make it accessible.
 
-See **ColorBrewer** - empirically derived colour schemes for numeric sequences, orders and discriminable categories.<br/>
-[https://colorbrewer2.org/](https://colorbrewer2.org/)
+See **ColorBrewer** - empirically derived colour schemes for numeric sequences, orders and discriminable categories.
 
-**Lisa Charlotte Muth** at _DataWrapper_ produces some fantastic guides - on colour and other aspects of visualization design.<br/>
-[https://lisacharlottemuth.com/articles](https://lisacharlottemuth.com/articles)
+- [https://colorbrewer2.org/](https://colorbrewer2.org/)
 
-**Kennedy Elliott** - now at the _NY Times_ - did a great interpretation of 39 studies in Human Perception that inform visualization design<br/>
-[https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
+**Lisa Charlotte Muth** at _DataWrapper_ produces some fantastic guides - on colour and other aspects of visualization design.
+
+- [https://lisacharlottemuth.com/articles](https://lisacharlottemuth.com/articles)
+
+**Kennedy Elliott** - now at the _NY Times_ - did a great interpretation of 39 studies in Human Perception that inform visualization design.
+
+- [https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
 
 ### BOOKS
 
 There are great books that explain and help and provide inspiration.
 
-_Dear Data_ - just get this and cherish it. Giorgia Lupi and Steph Posavec opened up all kinds of opportunities here and their Data Humanism presents aposition that is important in terms of engagement and some of the issues around trustm fairness and infantilization that were mentioned yesterday.
+_Dear Data_ - just get this and cherish it. **Giorgia Lupi** and **Steph Posavec** opened up all kinds of opportunities here and their Data Humanism presents a position that is important in terms of engagement and some of the issues around trust, fairness and infantilization that were mentioned yesterday.
 
 > Lupi, G., & Posavec, S. (2016). Dear data. Chronicle books.<br/> > [http://www.dear-data.com/](http://www.dear-data.com/)
 
