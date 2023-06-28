@@ -40,11 +40,11 @@ To answer the specific questions that were listed on the agenda, from a _VIS res
 ### PHYSICALLY
 
 I think we know quite a lot about what goes on in people’s heads when they look at simple graphics.
-_Steve Franconeri_ and some other cognitive scientists tried to summarise some of this here and suggest some actions as a result.
+**Steve Franconeri** and some other cognitive scientists tried to summarise some of this here and suggest some actions as a result.
 
 > Franconeri, Steven L., et al. "The science of visual data communication: What works." Psychological Science in the public interest 22.3 (2021): 110-161.
 
-_Danielle Szafir_ also runs a good group, who do good work and attempt to show how Vision Science can help us do good vis. Their design space helps explain this.
+**Danielle Szafir** also runs a good group, who do good work and attempt to show how Vision Science can help us do good vis. Their design space helps explain this.
 
 > Elliott, M. A., Nothelfer, C., Xiong, C., & Szafir, D. A. (2020). A design space of vision science methods for visualization research. IEEE Transactions on Visualization and Computer Graphics, 27(2), 1117-1127.
 > [https://youtu.be/v6bJwsHxRLY](https://youtu.be/v6bJwsHxRLY)
@@ -55,7 +55,7 @@ There are various studies on affect and visualization - these are good starting 
 
 > Pandey, A. V., Manivannan, A., Nov, O., Satterthwaite, M., & Bertini, E. (2014). The persuasive power of data visualization. IEEE transactions on visualization and computer graphics, 20(12), 2211-2220.
 
-I like the affective learning objectives approach, which gets us to be explicit about how we are trying to make people feel. _Elsie Lee-Robins_’ paper captures this nicely.
+I like the affective learning objectives approach, which gets us to be explicit about how we are trying to make people feel. \__Elsie Lee-Robins_’\_ paper captures this nicely.
 
 > Lee-Robbins, E., & Adar, E. (2022). Affective Learning Objectives for Communicative Visualizations. IEEE Transactions on Visualization and Computer Graphics, 29(1), 1-11.
 
@@ -71,7 +71,7 @@ Or, _if you only have 30 seconds_, try the teaser trailer!<br/>
 ### COMPREHENSION & MISUNDERSTANDING
 
 You cannot guarantee that graphics will not be used to misinform or that they will not be misinterpreted, as is the case with text - which can be used for misinformation and in some cases will do more harm than good.
-_How to Lie with Maps_ - _Dennis Wood_’s classic book - reminds us that bias and propaganda are well known phenomena in cartography. There are loads of research papers on this, but the most important message is that it’s complicated and unpredictable!
+_How to Lie with Maps_ - \__Dennis Wood_’s\_ classic book - reminds us that bias and propaganda are well known phenomena in cartography. There are loads of research papers on this, but the most important message is that it’s complicated and unpredictable!
 
 See here for an example that attempts to study, explain and quantify some of this:
 
@@ -105,7 +105,7 @@ Some places to look include:
 
 ### VISUALIZING UNCERTAINTY
 
-I would definitely look at _Jessica Hullman_’s excellent work on uncertainty, she is running a group that is galloping towards evidence-based guidelines and approaches that should be useful to policymakers and government.For example, see …
+I would definitely look at \__Jessica Hullman_’s\_ excellent work on uncertainty, she is running a group that is galloping towards evidence-based guidelines and approaches that should be useful to policymakers and government.For example, see …
 
 > Hullman, J., & Diakopoulos, N. (2011). Visualization rhetoric: Framing effects in narrative visualization. IEEE Transactions on Visualization and Computer Graphics, 17(12), 2231-2240.
 
@@ -118,7 +118,7 @@ Many papers have 30 second video summaries … again - useful!<br/>
 
 ### OTHER OTHER EFFECTS 😉
 
-_Cindy Xiong_ (along with some of the above) is doing some great work on ‘other effects’ - for example:
+**Cindy Xiong** (along with some of the above) is doing some great work on ‘other effects’ - for example:
 
 > Burns, A., Xiong, C., Franconeri, S., Cairo, A., & Mahyar, N. (2020, October). How to evaluate data visualizations across different levels of understanding. In 2020 IEEE Workshop on Evaluation and Beyond-Methodological Approaches to Visualization (BELIV) (pp. 19-28). IEEE.
 
@@ -134,11 +134,11 @@ Some other ideas came to mind during the meeting ... so I jotted down some addit
 
 > Chevalier, F., Vuillemot, R., & Gali, G. (2013). Using concrete scales: A practical framework for effective visual depiction of complex measures.  IEEE Transactions on Visualization and Computer Graphics, 19(12), 2426-2435.
 
-There is a fair amount of work on visualization of **Bayesian** stats and reasoning. _Lane Harrison_ is good:
+There is a fair amount of work on visualization of **Bayesian** stats and reasoning. **Lane Harrison** is good:
 
 > Ottley, A., Peck, E. M., Harrison, L. T., Afergan, D., Ziemkiewicz, C., Taylor, H. A., ... & Chang, R. (2015). Improving Bayesian reasoning: The effects of phrasing, visualization, and spatial ability.  IEEE Transactions on Visualization and Computer Graphics, 22(1), 529-538.
 
-We also discussed **“Text or Words”** and _Prof._ _Marti Hearst_, Head of School of Information at Berkeley, had plenty of useful things to say at IEEEVIS in 2022.
+We also discussed **“Text or Words”** and **Prof.\_ \_Marti Hearst**, Head of School of Information at Berkeley, had plenty of useful things to say at IEEEVIS in 2022.
 Her _“Show it or Tell it?_” keynote on words and graphics is an hour long bu provides an excellent overview.<br/>
 [https://www.youtube.com/watch?v=BDTEkT8p4Gs](https://www.youtube.com/watch?v=BDTEkT8p4Gs)
 
@@ -146,7 +146,7 @@ Her _“Show it or Tell it?_” keynote on words and graphics is an hour long bu
 
 > Adar, E., Gearig, C., Balasubramanian, A., & Hullman, J. (2017, May). PersaLog: Personalization of news article content. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 3188-3200).<br/> > [https://youtu.be/zVi6zy1LLjo](https://youtu.be/zVi6zy1LLjo)
 
-**Data Comics** were mentioned - _Ben Bach_ at Edinburgh is the person to connect with here:
+**Data Comics** were mentioned - **Ben Bach** at Edinburgh is the person to connect with here:
 
 > Bach, B., Riche, N. H., Carpendale, S., & Pfister, H. (2017). The emerging genre of data comics. IEEE computer graphics and applications, 37(3), 6-13.
 
@@ -169,7 +169,7 @@ They are up for discussion and can help formulate answerable questions and answe
 
 ### GUIDELINES
 
-For design guidelines, I really quite like the elegance of the rules in _Kindlmann & Scheidegger’s_ Algebraic Visualization.
+For design guidelines, I really quite like the elegance of the rules in **Kindlmann & Scheidegger’s** Algebraic Visualization.
 
 It’s not super-accessible, but the concepts are really useful once you get them - good checks!
 e.g. Changing the encoding (visualization) should not change the interpretation (you can think of this as visualization reliability).
@@ -182,10 +182,10 @@ great sites and resources that take the science and explain it well - with funct
 See **ColorBrewer** - empirically derived colour schemes for numeric sequences, orders and discriminable categories.<br/>
 [https://colorbrewer2.org/](https://colorbrewer2.org/)
 
-_Lisa Charlotte Muth_ at _DataWrapper_ produces some fantastic guides - on colour and other aspects of visualization design.<br/>
+**Lisa Charlotte Muth** at _DataWrapper_ produces some fantastic guides - on colour and other aspects of visualization design.<br/>
 [https://lisacharlottemuth.com/articles](https://lisacharlottemuth.com/articles)
 
-_Kennedy Elliott_ - now at the _NY Times_ - did a great interpretation of 39 studies in Human Perception that inform visualization design<br/>
+**Kennedy Elliott** - now at the _NY Times_ - did a great interpretation of 39 studies in Human Perception that inform visualization design<br/>
 [https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
 
 ### BOOKS
@@ -206,9 +206,7 @@ I like **Isabel Meirelles** book - _Design for Information_ - as it makes direct
 
 There was an assumption about using paper and screens yesterday, but _Data Physicalization_ is expressive and engaging and big news. There is a new and exciting book on this :
 
-> Huron, S., Nagel, T., Oehlberg, L., & Willett, W. (2021). Making with Data.<br/>
-> [http://makingwithdata.org/](http://makingwithdata.org/)<br/>
-> [https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/](https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/)
+> Huron, S., Nagel, T., Oehlberg, L., & Willett, W. (2021). Making with Data.<br/> > [http://makingwithdata.org/](http://makingwithdata.org/)<br/> > [https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/](https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/)
 
 ### EVIDENCE
 
