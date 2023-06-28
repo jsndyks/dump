@@ -55,7 +55,7 @@ There are various studies on affect and visualization - these are good starting 
 
 > Pandey, A. V., Manivannan, A., Nov, O., Satterthwaite, M., & Bertini, E. (2014). The persuasive power of data visualization. IEEE transactions on visualization and computer graphics, 20(12), 2211-2220.
 
-I like the affective learning objectives approach, which gets us to be explicit about how we are trying to make people feel. \__Elsie Lee-Robins_’\_ paper captures this nicely.
+I like the affective learning objectives approach, which gets us to be explicit about how we are trying to make people feel. \__Elsie Lee-Robbins_’\_ paper captures this nicely.
 
 > Lee-Robbins, E., & Adar, E. (2022). Affective Learning Objectives for Communicative Visualizations. IEEE Transactions on Visualization and Computer Graphics, 29(1), 1-11.
 
