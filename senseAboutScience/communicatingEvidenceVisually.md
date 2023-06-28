@@ -59,10 +59,8 @@ I like the affective learning objectives approach, which gets us to be explicit 
 
 > Lee-Robbins, E., & Adar, E. (2022). Affective Learning Objectives for Communicative Visualizations. IEEE Transactions on Visualization and Computer Graphics, 29(1), 1-11.<br/>
 > Most VIS papers have an accompanying presentation video - useful!<br/> > [https://youtu.be/2MJlzAd9Ua0](https://youtu.be/2MJlzAd9Ua0)<br/>
-> Or see it live!<br/>
-> [https://youtu.be/Hcx-DoHkWuk?t=1178](https://youtu.be/Hcx-DoHkWuk?t=1178)<br/>
-> Or, _if you only have 30 seconds_, try the teaser trailer!<br/>
-> [https://youtu.be/UrW92ubvSdo](https://youtu.be/UrW92ubvSdo)
+> Or see it live!<br/> > [https://youtu.be/Hcx-DoHkWuk?t=1178](https://youtu.be/Hcx-DoHkWuk?t=1178)<br/>
+> Or, _if you only have 30 seconds_, try the teaser trailer!<br/> > [https://youtu.be/UrW92ubvSdo](https://youtu.be/UrW92ubvSdo)
 
 ### COMPREHENSION & MISUNDERSTANDING
 
@@ -232,5 +230,5 @@ So I hope we can use visualization design, research and practice to help.
 
 ---
 
-**Jason DYKES**
+**Jason DYKES**<br/>
 28/06/23
