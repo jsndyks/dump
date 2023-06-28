@@ -33,7 +33,7 @@ We try to develop guidelines and theory through all of this.
 It is best captured and indeed supported by the annual conference IEEE VIS and associated journal IEEE Transactions in Visualization and Computer Graphics.
 You can see some of what we have done on our painfully outdated Web pages: https://www.gicentre.net/featuredpapers/
 
-To answer your questions …
+To answer the specific questions that were listed on the agenda, from a _VIS research_ (_"evidence based"_) perspective …
 
 ### PHYSICALLY
 
