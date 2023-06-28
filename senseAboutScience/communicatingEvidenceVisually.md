@@ -18,7 +18,7 @@ For this to work you need :
 
 That’s the _pathway to openness_ in my view and graphics provide a nuanced and detailed language through which this might be achieved.
 
-There is also something else to be said. To understand science, or even The World, you need to be able to interpret distributions, rather than single numbers. That’s how the World is - uncertain, but predictable within ranges. Probability and distributions are key to this. Politicians need to be able to make decisions and develop policy with an understanding of distributions and probabilities. It’s a bit weird that so many of them seem to have backgrounds in arts subjects and do PPE at Oxford, but there you go. It would be great to get them working with measures of central tendency and dispersion to describe distributions. The good news is that visualization gives us great scope for doing this very effectively.
+There is also something else to be said. To understand science, or even The World, you need to be able to interpret distributions, rather than single numbers. That’s how the World is - uncertain, but predictable within ranges. Probability and distributions are key to this. Politicians need to be able to make decisions and develop policy with an understanding of distributions and probabilities. It’s a bit weird that so many of them seem to have backgrounds in arts subjects and study PPE at Oxford, but there you go. It would be great to get them working with measures of central tendency and dispersion to describe distributions. The good news is that visualization gives us great scope for doing this very effectively.
 There is hope!
 
 But visual data design is a complex science and society driven craft.
@@ -47,7 +47,7 @@ _Steve Franconeri_ and some other cognitive scientists tried to summarise some o
 _Danielle Szafir_ also runs a good group, who do good work and attempt to show how Vision Science can help us do good vis. Their design space helps explain this.
 
 > Elliott, M. A., Nothelfer, C., Xiong, C., & Szafir, D. A. (2020). A design space of vision science methods for visualization research. IEEE Transactions on Visualization and Computer Graphics, 27(2), 1117-1127.
-> https://youtu.be/v6bJwsHxRLY
+> [https://youtu.be/v6bJwsHxRLY](https://youtu.be/v6bJwsHxRLY)
 
 ### EMOTIONALLY
 
@@ -59,14 +59,14 @@ I like the affective learning objectives approach, which gets us to be explicit 
 
 > Lee-Robbins, E., & Adar, E. (2022). Affective Learning Objectives for Communicative Visualizations. IEEE Transactions on Visualization and Computer Graphics, 29(1), 1-11.
 
-Most VIS papers have an accompanying presentation video - useful!
-https://youtu.be/2MJlzAd9Ua0
+Most VIS papers have an accompanying presentation video - useful!<br/>
+[https://youtu.be/2MJlzAd9Ua0](https://youtu.be/2MJlzAd9Ua0)
 
-Or see it live!
-https://youtu.be/Hcx-DoHkWuk?t=1178
+Or see it live!<br/>
+[https://youtu.be/Hcx-DoHkWuk?t=1178](https://youtu.be/Hcx-DoHkWuk?t=1178)
 
-Or, _if you only have 30 seconds_, try the teaser trailer!
-https://youtu.be/UrW92ubvSdo
+Or, _if you only have 30 seconds_, try the teaser trailer!<br/>
+[https://youtu.be/UrW92ubvSdo](https://youtu.be/UrW92ubvSdo)
 
 ### COMPREHENSION & MISUNDERSTANDING
 
@@ -75,9 +75,7 @@ _How to Lie with Maps_ - _Dennis Wood_’s classic book - reminds us that bias a
 
 See here for an example that attempts to study, explain and quantify some of this:
 
-> Xiong, C., Stokes, C., Kim, Y. S., & Franconeri, S. (2022). Seeing what you believe or believing what you see? belief biases correlation estimation. IEEE Transactions on Visualization and Computer Graphics, 29(1), 493-503.
-> https://youtu.be/7ISD9WtYChI - worth 30 seconds!
-> https://youtu.be/xBSZC2jj_wc - 12 min paper
+> Xiong, C., Stokes, C., Kim, Y. S., & Franconeri, S. (2022). Seeing what you believe or believing what you see? belief biases correlation estimation. IEEE Transactions on Visualization and Computer Graphics, 29(1), 493-503.<br/> > [https://youtu.be/7ISD9WtYChI](https://youtu.be/7ISD9WtYChI) - worth 30 seconds!<br/> > [https://youtu.be/xBSZC2jj_wc](https://youtu.be/xBSZC2jj_wc) - 12 min paper
 
 ### OTHER EFFECTS
 
@@ -95,8 +93,7 @@ There are numerous other effects that are known and understood with different le
 
 There is a nice framework here :
 
-> Dimara, E., Franconeri, S., Plaisant, C., Bezerianos, A., & Dragicevic, P. (2018). A task-based taxonomy of cognitive biases for information visualization. IEEE Transactions on Visualization and Computer Graphics, 26(2), 1413-1432.
-> https://vimeo.com/373008296 > https://vimeo.com/364568413
+> Dimara, E., Franconeri, S., Plaisant, C., Bezerianos, A., & Dragicevic, P. (2018). A task-based taxonomy of cognitive biases for information visualization. IEEE Transactions on Visualization and Computer Graphics, 26(2), 1413-1432.<br/> > [https://vimeo.com/373008296](https://vimeo.com/373008296)<br/> > [https://vimeo.com/364568413](https://vimeo.com/364568413)
 
 Some places to look include:
 
@@ -116,8 +113,8 @@ I would definitely look at _Jessica Hullman_’s excellent work on uncertainty, 
 
 > Kay, M., Kola, T., Hullman, J. R., & Munson, S. A. (2016, May). When (ish) is my bus? User-centered visualizations of uncertainty in everyday, mobile predictive systems. In Proceedings of the 2016 chi conference on human factors in computing systems (pp. 5092-5103).
 
-Many papers have 30 second video summaries … again - useful!
-https://youtu.be/jr50GY5RYI8
+Many papers have 30 second video summaries … again - useful!<br/>
+[https://youtu.be/jr50GY5RYI8](https://youtu.be/jr50GY5RYI8)
 
 ### OTHER OTHER EFFECTS 😉
 
@@ -126,10 +123,8 @@ _Cindy Xiong_ (along with some of the above) is doing some great work on ‘othe
 > Burns, A., Xiong, C., Franconeri, S., Cairo, A., & Mahyar, N. (2020, October). How to evaluate data visualizations across different levels of understanding. In 2020 IEEE Workshop on Evaluation and Beyond-Methodological Approaches to Visualization (BELIV) (pp. 19-28). IEEE.
 
 > Xiong, C., Shapiro, J., Hullman, J., & Franconeri, S. (2019). Illusion of causality in visualized data. IEEE Transactions on Visualization and Computer Graphics, 26(1), 853-862.
-> Try the 30 second preview to know why PopTarts are important!
-> https://vimeo.com/360049821
-> Or the 12 minute talk for more depth:
-> https://vimeo.com/370881473
+> Try the 30 second preview to know why PopTarts are important!<br/> > [https://vimeo.com/360049821](https://vimeo.com/360049821)
+> Or the 12 minute talk for more depth:<br/> > [https://vimeo.com/370881473](https://vimeo.com/370881473)
 
 ### VARIOUS
 
@@ -144,13 +139,12 @@ There is a fair amount of work on visualization of **Bayesian** stats and reason
 > Ottley, A., Peck, E. M., Harrison, L. T., Afergan, D., Ziemkiewicz, C., Taylor, H. A., ... & Chang, R. (2015). Improving Bayesian reasoning: The effects of phrasing, visualization, and spatial ability.  IEEE Transactions on Visualization and Computer Graphics, 22(1), 529-538.
 
 We also discussed **“Text or Words”** and _Prof._ _Marti Hearst_, Head of School of Information at Berkeley, had plenty of useful things to say at IEEEVIS in 2022.
-Her _“Show it or Tell it?_” keynote on words and graphics is an hour long bu provides an excellent overview.
-https://www.youtube.com/watch?v=BDTEkT8p4Gs
+Her _“Show it or Tell it?_” keynote on words and graphics is an hour long bu provides an excellent overview.<br/>
+[https://www.youtube.com/watch?v=BDTEkT8p4Gs](https://www.youtube.com/watch?v=BDTEkT8p4Gs)
 
 **Positioning yourself** in the data was discussed - See _PersaLog_ for some great ideas!
 
-> Adar, E., Gearig, C., Balasubramanian, A., & Hullman, J. (2017, May). PersaLog: Personalization of news article content. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 3188-3200).
-> https://youtu.be/zVi6zy1LLjo
+> Adar, E., Gearig, C., Balasubramanian, A., & Hullman, J. (2017, May). PersaLog: Personalization of news article content. In Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems (pp. 3188-3200).<br/> > [https://youtu.be/zVi6zy1LLjo](https://youtu.be/zVi6zy1LLjo)
 
 **Data Comics** were mentioned - _Ben Bach_ at Edinburgh is the person to connect with here:
 
@@ -159,12 +153,12 @@ https://www.youtube.com/watch?v=BDTEkT8p4Gs
 > Bach, B., Wang, Z., Farinella, M., Murray-Rust, D., & Henry Riche, N. (2018, April). Design patterns for data comics. In Proceedings of the 2018 CHI conference on human factors in computing systems (pp. 1-12).
 
 I strongly would recommend connecting with the **Edinburgh** group - they are great.
-The _VisHub at Edinburgh_ is exciting - good researchers and good connections between art, science, design and Vis.
-https://vishub.net/
-They are also hosting the _Information+_ conference this year - and you should get along!
-https://informationplusconference.com/2023/
+The _VisHub at Edinburgh_ is exciting - good researchers and good connections between art, science, design and Vis.<br/>
+[https://vishub.net/](https://vishub.net/)
+They are also hosting the _Information+_ conference this year - and you should get along!<br/>
+[https://informationplusconference.com/2023/](https://informationplusconference.com/2023/)
 
-**Accessibility** - I have just returned from a week at the _Schloss Dagstuhl – Leibniz Center for Informatics_, discussing _Inclusive Data Visualization_ with colleagues from around the World. Some of them were blind and partially sighted. It’s a conundrum. Using multiple media is strongly recommended and the DAISY Consortium provides some tools to help with specifications and transformation. https://daisy.org/
+**Accessibility** - I have just returned from a week at the _Schloss Dagstuhl – Leibniz Center for Informatics_, discussing _Inclusive Data Visualization_ with colleagues from around the World. Some of them were blind and partially sighted. It’s a conundrum. Using multiple media is strongly recommended and the DAISY Consortium provides some tools to help with specifications and transformation. [https://daisy.org/](https://daisy.org/)
 
 **Design Process** - this was discussed briefly right at the end!
 I’d vouch for testing, iteration and co-design as mentioned right at the end. And the VIS community has tested design methodologies to help with this! For example, using visual stimuli for creative problem solving as we specify need and design tools to address it in light of data.
@@ -185,35 +179,36 @@ e.g. Changing the encoding (visualization) should not change the interpretation 
 Perhaps more accessible and useful are the science informed sites and blogs … there are loads of these:
 great sites and resources that take the science and explain it well - with functionality to make it accessible.
 
-See **ColorBrewer** - empirically derived colour schemes for numeric sequences, orders and discriminable categories.
-https://colorbrewer2.org/
+See **ColorBrewer** - empirically derived colour schemes for numeric sequences, orders and discriminable categories.<br/>
+[https://colorbrewer2.org/](https://colorbrewer2.org/)
 
-_Lisa Charlotte Muth_ at _DataWrapper_ produces some fantastic guides - on colour and other aspects of visualization design.
-https://lisacharlottemuth.com/articles
+_Lisa Charlotte Muth_ at _DataWrapper_ produces some fantastic guides - on colour and other aspects of visualization design.<br/>
+[https://lisacharlottemuth.com/articles](https://lisacharlottemuth.com/articles)
 
-_Kennedy Elliott_ - now at the _NY Times_ - did a great interpretation of 39 studies in Human Perception that inform visualization design
-https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73
+_Kennedy Elliott_ - now at the _NY Times_ - did a great interpretation of 39 studies in Human Perception that inform visualization design<br/>
+[https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73)
 
 ### BOOKS
 
 There are great books that explain and help and provide inspiration.
 
-Dear Data - just get this and cherish it.
-Lupi, G., & Posavec, S. (2016). Dear data. Chronicle books.
-http://www.dear-data.com/
+_Dear Data_ - just get this and cherish it. Giorgia Lupi and Steph Posavec opened up all kinds of opportunities here and their Data Humanism presents aposition that is important in terms of engagement and some of the issues around trustm fairness and infantilization that were mentioned yesterday.
 
-I like Isabel Meirelles book - Design for Information - as it makes direct reference to some of the science and positions data visualization as part of a long-standing tradition of visual communication (which it is).
-https://isabelmeirelles.com/about/
-https://www.amazon.com/gp/product/1592538061/
+> Lupi, G., & Posavec, S. (2016). Dear data. Chronicle books.<br/> > [http://www.dear-data.com/](http://www.dear-data.com/)
 
-Johnathan Schwabish’s Better Data Visualizations is a bit hit and miss, but he is very much involved with policy at PolicyViz so I think this would be a good thing to have a look at too.
-https://www.amazon.com/gp/product/1592538061/
-https://policyviz.com/
+I like **Isabel Meirelles** book - _Design for Information_ - as it makes direct reference to some of the science and positions data visualization as part of a long-standing tradition of visual communication (which it is).<br/>
 
-There was an assumption about using paper and screens yesterday, but Data Physicalization is expressive and engaging and big news. There is a new and exciting book on this :
-Huron, S., Nagel, T., Oehlberg, L., & Willett, W. (2021). Making with Data.
-http://makingwithdata.org/
-https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/
+> Meirelles, I. (2013). Design for information: an introduction to the histories, theories, and best practices behind effective information visualizations. Rockport publishers.<br/> > [https://isabelmeirelles.com/about/](https://isabelmeirelles.com/about/)<br/> > [https://www.amazon.com/gp/product/1592538061/](https://www.amazon.com/gp/product/1592538061/)
+
+**Johnathan Schwabish’s** _Better Data Visualizations_ is a bit hit and miss, but he is very much involved with policy at _PolicyViz_ so I think this would be a good thing to have a look at too.<br/>
+
+> Schwabish, J. (2021). Better data visualizations: A guide for scholars, researchers, and wonks. Columbia University Press.<br/> > [https://www.amazon.com/gp/product/1592538061/](https://www.amazon.com/gp/product/1592538061/)<br/> > [https://policyviz.com/](https://policyviz.com/)
+
+There was an assumption about using paper and screens yesterday, but _Data Physicalization_ is expressive and engaging and big news. There is a new and exciting book on this :
+
+> Huron, S., Nagel, T., Oehlberg, L., & Willett, W. (2021). Making with Data.<br/>
+> [http://makingwithdata.org/](http://makingwithdata.org/)<br/>
+> [https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/](https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/)
 
 ### EVIDENCE
 
@@ -225,7 +220,7 @@ Vis gives us language for this.
 
 Somewhere you asked …
 
-_“Does it [visualization] help or hinder communication”_?
+- _“Does it [visualization] help or hinder communication”_?
 
 Well, there is scope for both.
 But it does make policy and decision-making more open.
