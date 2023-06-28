@@ -46,18 +46,18 @@ I think we know quite a lot about what goes on in people’s heads when they loo
 
 **Danielle Szafir** also runs a good group, who do good work and attempt to show how Vision Science can help us do good vis. Their design space helps explain this.
 
-> Elliott, M. A., Nothelfer, C., Xiong, C., & Szafir, D. A. (2020). A design space of vision science methods for visualization research. IEEE Transactions on Visualization and Computer Graphics, 27(2), 1117-1127.
+> Elliott, M. A., Nothelfer, C., Xiong, C., & Szafir, D. A. (2020). A design space of vision science methods for visualization research. *IEEE Transactions on Visualization and Computer Graphics*, 27(2), 1117-1127.
 > [https://youtu.be/v6bJwsHxRLY](https://youtu.be/v6bJwsHxRLY)
 
 ### EMOTIONALLY
 
 There are various studies on affect and visualization - these are good starting points.
 
-> Pandey, A. V., Manivannan, A., Nov, O., Satterthwaite, M., & Bertini, E. (2014). The persuasive power of data visualization. IEEE transactions on visualization and computer graphics, 20(12), 2211-2220.
+> Pandey, A. V., Manivannan, A., Nov, O., Satterthwaite, M., & Bertini, E. (2014). The persuasive power of data visualization. *IEEE Transactions on Visualization and Computer Graphics*, 20(12), 2211-2220.
 
 I like the affective learning objectives approach, which gets us to be explicit about how we are trying to make people feel. **Elsie Lee-Robbins**' paper captures this nicely.
 
-> Lee-Robbins, E., & Adar, E. (2022). Affective Learning Objectives for Communicative Visualizations. IEEE Transactions on Visualization and Computer Graphics, 29(1), 1-11.<br/>
+> Lee-Robbins, E., & Adar, E. (2022). Affective Learning Objectives for Communicative Visualizations. *IEEE Transactions on Visualization and Computer Graphics*, 29(1), 1-11.<br/>
 > Most VIS papers have an accompanying presentation video - useful!<br/> > [https://youtu.be/2MJlzAd9Ua0](https://youtu.be/2MJlzAd9Ua0)<br/>
 > Or see it live!<br/> > [https://youtu.be/Hcx-DoHkWuk?t=1178](https://youtu.be/Hcx-DoHkWuk?t=1178)<br/>
 > Or, _if you only have 30 seconds_, try the teaser trailer!<br/> > [https://youtu.be/UrW92ubvSdo](https://youtu.be/UrW92ubvSdo)
@@ -69,7 +69,7 @@ _How to Lie with Maps_ - **Dennis Wood**’s classic book - reminds us that bias
 
 See here for an example that attempts to study, explain and quantify some of this:
 
-> Xiong, C., Stokes, C., Kim, Y. S., & Franconeri, S. (2022). Seeing what you believe or believing what you see? belief biases correlation estimation. IEEE Transactions on Visualization and Computer Graphics, 29(1), 493-503.<br/> > [https://youtu.be/7ISD9WtYChI](https://youtu.be/7ISD9WtYChI) - worth 30 seconds!<br/> > [https://youtu.be/xBSZC2jj_wc](https://youtu.be/xBSZC2jj_wc) - 12 min paper
+> Xiong, C., Stokes, C., Kim, Y. S., & Franconeri, S. (2022). Seeing what you believe or believing what you see? belief biases correlation estimation. *IEEE Transactions on Visualization and Computer Graphics*, 29(1), 493-503.<br/> > [https://youtu.be/7ISD9WtYChI](https://youtu.be/7ISD9WtYChI) - worth 30 seconds!<br/> > [https://youtu.be/xBSZC2jj_wc](https://youtu.be/xBSZC2jj_wc) - 12 min paper
 
 ### OTHER EFFECTS
 
@@ -87,23 +87,23 @@ There are numerous other effects that are known and understood with different le
 
 There is a nice framework here :
 
-> Dimara, E., Franconeri, S., Plaisant, C., Bezerianos, A., & Dragicevic, P. (2018). A task-based taxonomy of cognitive biases for information visualization. IEEE Transactions on Visualization and Computer Graphics, 26(2), 1413-1432.<br/> > [https://vimeo.com/373008296](https://vimeo.com/373008296)<br/> > [https://vimeo.com/364568413](https://vimeo.com/364568413)
+> Dimara, E., Franconeri, S., Plaisant, C., Bezerianos, A., & Dragicevic, P. (2018). A task-based taxonomy of cognitive biases for information visualization. *IEEE Transactions on Visualization and Computer Graphics*, 26(2), 1413-1432.<br/> > [https://vimeo.com/373008296](https://vimeo.com/373008296)<br/> > [https://vimeo.com/364568413](https://vimeo.com/364568413)
 
 Some places to look include:
 
-> Valdez, A. C., Ziefle, M., & Sedlmair, M. (2017). Priming and anchoring effects in visualization. IEEE Transactions on Visualization and Computer Graphics, 24(1), 584-594.
+> Valdez, A. C., Ziefle, M., & Sedlmair, M. (2017). Priming and anchoring effects in visualization. *IEEE Transactions on Visualization and Computer Graphics*, 24(1), 584-594.
 
-> Borkin, M. A., Bylinskii, Z., Kim, N. W., Bainbridge, C. M., Yeh, C. S., Borkin, D., ... & Oliva, A. (2015). Beyond memorability: Visualization recognition and recall. IEEE Transactions on Visualization and Computer Graphics 22(1), 519-528.
+> Borkin, M. A., Bylinskii, Z., Kim, N. W., Bainbridge, C. M., Yeh, C. S., Borkin, D., ... & Oliva, A. (2015). Beyond memorability: Visualization recognition and recall. *IEEE Transactions on Visualization and Computer Graphics* 22(1), 519-528.
 
-> Mukherjee, K., Yin, B., Sherman, B. E., Lessard, L., & Schloss, K. B. (2021). Context matters: A theory of semantic discriminability for perceptual encoding systems. IEEE Transactions on Visualization and Computer Graphics, 28(1), 697-706.
+> Mukherjee, K., Yin, B., Sherman, B. E., Lessard, L., & Schloss, K. B. (2021). Context matters: A theory of semantic discriminability for perceptual encoding systems. *IEEE Transactions on Visualization and Computer Graphics*, 28(1), 697-706.
 
 ### VISUALIZING UNCERTAINTY
 
 I would definitely look at **Jessica Hullman**'s excellent work on uncertainty, she is running a group that is galloping towards evidence-based guidelines and approaches that should be useful to policymakers and government.For example, see …
 
-> Hullman, J., & Diakopoulos, N. (2011). Visualization rhetoric: Framing effects in narrative visualization. IEEE Transactions on Visualization and Computer Graphics, 17(12), 2231-2240.
+> Hullman, J., & Diakopoulos, N. (2011). Visualization rhetoric: Framing effects in narrative visualization. *IEEE Transactions on Visualization and Computer Graphics*, 17(12), 2231-2240.
 
-> Hullman, J., Drucker, S., Riche, N. H., Lee, B., Fisher, D., & Adar, E. (2013). A deeper understanding of sequence in narrative visualization. IEEE Transactions on Visualization and Computer Graphics, 19(12), 2406-2415.
+> Hullman, J., Drucker, S., Riche, N. H., Lee, B., Fisher, D., & Adar, E. (2013). A deeper understanding of sequence in narrative visualization. *IEEE Transactions on Visualization and Computer Graphics*, 19(12), 2406-2415.
 
 > Kay, M., Kola, T., Hullman, J. R., & Munson, S. A. (2016, May). When (ish) is my bus? User-centered visualizations of uncertainty in everyday, mobile predictive systems. In Proceedings of the 2016 chi conference on human factors in computing systems (pp. 5092-5103).<br/>
 > Many papers have 30 second video summaries … again - useful!<br/> > [https://youtu.be/jr50GY5RYI8](https://youtu.be/jr50GY5RYI8)
@@ -114,7 +114,7 @@ I would definitely look at **Jessica Hullman**'s excellent work on uncertainty, 
 
 > Burns, A., Xiong, C., Franconeri, S., Cairo, A., & Mahyar, N. (2020, October). How to evaluate data visualizations across different levels of understanding. In 2020 IEEE Workshop on Evaluation and Beyond-Methodological Approaches to Visualization (BELIV) (pp. 19-28). IEEE.
 
-> Xiong, C., Shapiro, J., Hullman, J., & Franconeri, S. (2019). Illusion of causality in visualized data. IEEE Transactions on Visualization and Computer Graphics, 26(1), 853-862.
+> Xiong, C., Shapiro, J., Hullman, J., & Franconeri, S. (2019). Illusion of causality in visualized data. *IEEE Transactions on Visualization and Computer Graphics*, 26(1), 853-862.
 > Try the 30 second preview to know why PopTarts are important!<br/> > [https://vimeo.com/360049821](https://vimeo.com/360049821)
 > Or the 12 minute talk for more depth:<br/> > [https://vimeo.com/370881473](https://vimeo.com/370881473)
 
@@ -124,11 +124,11 @@ Some other ideas came to mind during the meeting ... so I jotted down some addit
 
 **Concrete scales** are interesting and were suggested yesterday (balloons) - they seem to have potential:
 
-> Chevalier, F., Vuillemot, R., & Gali, G. (2013). Using concrete scales: A practical framework for effective visual depiction of complex measures.  IEEE Transactions on Visualization and Computer Graphics, 19(12), 2426-2435.
+> Chevalier, F., Vuillemot, R., & Gali, G. (2013). Using concrete scales: A practical framework for effective visual depiction of complex measures.  *IEEE Transactions on Visualization and Computer Graphics*, 19(12), 2426-2435.
 
 There is a fair amount of work on visualization of **Bayesian** stats and reasoning. **Lane Harrison** is good:
 
-> Ottley, A., Peck, E. M., Harrison, L. T., Afergan, D., Ziemkiewicz, C., Taylor, H. A., ... & Chang, R. (2015). Improving Bayesian reasoning: The effects of phrasing, visualization, and spatial ability.  IEEE Transactions on Visualization and Computer Graphics, 22(1), 529-538.
+> Ottley, A., Peck, E. M., Harrison, L. T., Afergan, D., Ziemkiewicz, C., Taylor, H. A., ... & Chang, R. (2015). Improving Bayesian reasoning: The effects of phrasing, visualization, and spatial ability.  *IEEE Transactions on Visualization and Computer Graphics*, 22(1), 529-538.
 
 We also discussed **“Text or Words”** and **Prof. Marti Hearst**, Head of School of Information at Berkeley, had plenty of useful things to say at IEEEVIS in 2022.
 Her _“Show it or Tell it?_” keynote on words and graphics is an hour long bu provides an excellent overview.<br/>
@@ -166,7 +166,7 @@ For design guidelines, I really quite like the elegance of the rules in **Kindlm
 It’s not super-accessible, but the concepts are really useful once you get them - good checks!
 e.g. Changing the encoding (visualization) should not change the interpretation (you can think of this as visualization reliability).
 
-> Kindlmann, G., & Scheidegger, C. (2014). An algebraic process for visualization design. IEEE transactions on visualization and computer graphics, 20(12), 2181-2190.
+> Kindlmann, G., & Scheidegger, C. (2014). An algebraic process for visualization design. *IEEE Transactions on Visualization and Computer Graphics*, 20(12), 2181-2190.
 
 Perhaps more accessible and useful are the science informed sites and blogs … there are loads of these:
 great sites and resources that take the science and explain it well - with functionality to make it accessible.
