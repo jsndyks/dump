@@ -2,7 +2,7 @@
 
 # Communicating Evidence Visually : NOTES
 
-Hi - that was an interesting discussion, thanks for the invite.
+Hi - that was an interesting discussion, thanks so much for the invite.
 
 I liked the objective - a useful thing to work towards: that graphics should be “_transparent to a motivated citizen_”.
 But do we know what skills and competencies they are expected to have?
@@ -204,11 +204,15 @@ I like **Isabel Meirelles** book - _Design for Information_ - as it makes direct
 
 > Schwabish, J. (2021). Better data visualizations: A guide for scholars, researchers, and wonks. Columbia University Press.<br/> > [https://www.amazon.com/gp/product/1592538061/](https://www.amazon.com/gp/product/1592538061/)<br/> > [https://policyviz.com/](https://policyviz.com/)
 
-There was an assumption about using paper and screens yesterday, but _Data Physicalization_ is expressive and engaging and big news. There is a new and exciting book on this :
+**Andy Kirk** is very good:
+
+> Kirk, A. (2019). Data visualisation: A handbook for data driven design. Data Visualisation, 1-328.<br/> > [https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921/](https://www.amazon.com/Data-Visualisation-Handbook-Driven-Design/dp/1526468921/)
+
+There was an assumption about using paper and screens yesterday, but **Data Physicalization** is expressive and engaging and big news. There is a new and exciting book on this :
 
 > Huron, S., Nagel, T., Oehlberg, L., & Willett, W. (2021). Making with Data.<br/> > [http://makingwithdata.org/](http://makingwithdata.org/)<br/> > [https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/](https://www.amazon.com/Making-Data-Physical-Data-Driven-Visualization/dp/1032182229/)
 
-### EVIDENCE
+### COMMUNICATING EVIDENCE
 
 Finally … (at last) …
 
@@ -228,7 +232,7 @@ You can’t have your cake and eat it - more open, means more open to question, 
 Being more open exposes you to more scrutiny and if your arguments don’t hold up, your narrative is challenged, you’ll be called out.
 That has to be good for society and for democracy!
 
-So I hope we can use vis design and research to help.
+So I hope we can use visualization design, research and practice to help.
 
 ---
 
