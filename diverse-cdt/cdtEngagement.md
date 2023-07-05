@@ -62,7 +62,7 @@ _Advisers and co-supervisors will guide the PhD, help with access to industry ex
 
 _NOTE: Fees are at 2023 levels, subject to change, and likely to vary in line with inflation._
 
---
+---
 
 ### QUESTIONS & NOTES
 
