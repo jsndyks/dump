@@ -64,10 +64,12 @@ _NOTE: Fees are at 2023 levels, subject to change, and likely to vary in line wi
 
 --
 
+### QUESTIONS & NOTES
+
 _QUESTION: Do we provide stipend for Prof PhD?_
 
 _QUESTION: Do PT students have to cost half of FT students? Ours take 5/4 of the time but we need total fees to be equivalent?_
 
 _QUESTION: What pattern works for a PT student who is caring?_
 
-_IDEA: Don't pitch PT to potential funders. Say in proposal that we will encourage PTapplicants and offer flexibility in terms of their programme of learning depending upon their circumstances?_
+_IDEA: Don't pitch part-time to potential funders. Say in proposal that we will encourage PTapplicants and offer flexibility in terms of their programme of learning depending upon their circumstances?_
