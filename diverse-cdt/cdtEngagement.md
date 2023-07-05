@@ -1,5 +1,9 @@
 #### **CDT Collaboration**
 
+This is an internal document ... for thinking purposes!
+
+Needs developing into a menu for potential collaborators.
+
 ##### Defining the Centre for Doctoral Training ...
 
 _Help us co-create the DIVERSE CDT for Data Visualization._
@@ -57,3 +61,13 @@ _Get research students problem solving and working in your organization in the m
 _Advisers and co-supervisors will guide the PhD, help with access to industry experts, relevant data and other resources, oversee internships within the organization and conduct proactive monitoring of the research, its progress and impact._
 
 _NOTE: Fees are at 2023 levels, subject to change, and likely to vary in line with inflation._
+
+--
+
+_QUESTION: Do we provide stipend for Prof PhD?_
+
+_QUESTION: Do PT students have to cost half of FT students? Ours take 5/4 of the time but we need total fees to be equivalent?_
+
+_QUESTION: What pattern works for a PT student who is caring?_
+
+_IDEA: Don't pitch PT to potential funders. Say in proposal that we will encourage PTapplicants and offer flexibility in terms of their programme of learning depending upon their circumstances?_
