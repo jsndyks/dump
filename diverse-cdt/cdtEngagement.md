@@ -1,4 +1,10 @@
+
+<style>
+    blockquote {background-color:#f8f8f8; margin:4px; padding-left:2em}
+    </style>
+
 #### **CDT Collaboration**
+
 
 This is an internal document that describes possible items on our **Offer Menu** ... for thinking purposes!
 
@@ -42,7 +48,8 @@ _We learn about data science and data visualization needs by encouraging partner
 
 > _Raj mentions: the terms "showcase" and "plant visit"._
 
-> _Raj mentions: a "business internship ... to develop a new idea for collaboration with the business" and adds thast "This internship must be different from the PhD research and will support transferrable skills. A direct financial contribution to the student’s living costs is expected." _
+> _Raj mentions: a "business internship ... to develop a new idea for collaboration with the business" and adds that "This internship must be different from the PhD research and will support transferrable skills. A direct financial contribution to the student’s living costs is expected." _
+
 > _Jason says: We have internships but not business internships.
 I’m not sure we need these skills internships but am open to persuasion. How do they fit in? _
 
@@ -68,12 +75,13 @@ _Get University staff and students to work with your data in various ways, to se
 _Work with the University Research & Enterprise Office to develop NDAs and for guidance on IP._
 
 > _Raj mentions: inspiring researchers on "social responsibility" (his quotes). I am not completely convinced by this angle.
-This would be more persuasive if we were taking data from NGOs for free - so we could do something with this. Perhaps one hackathon should be a social good hackathon? But that should not really be part of this menu should it?
+This would be more persuasive if we were taking data from NGOs for free - so we could do something with this. Perhaps one hackathon should be a social good hackathon? But that should not really be part of this menu should it?_
 
 > _GeoSpatialCDT: use the phrase "1-month consultancy piece"_
 
 > _GeoSpatialCDT: has a "Short project co-supervision option" to 
 "Test out collaboration". I would drop this as we have the Design Study and plans for MSc Project._ 
+
 ---
 
 #### **CDT Research**
@@ -93,7 +101,7 @@ _Advisers and co-supervisors will guide the PhD, help with access to industry ex
 
 _NOTE: Fees are at 2023 levels, subject to change, and likely to vary in line with inflation._
 
-> _Raj mentions: external PhD supervision as involving "giving advice, organise access to the business experts, arrange data for the research, provide access to the laboratories and computing facilities (e.g. GPU compute) and conduct proactive monitoring of the research and its impact."
+> _Raj mentions: external PhD supervision as involving "giving advice, organise access to the business experts, arrange data for the research, provide access to the laboratories and computing facilities (e.g. GPU compute) and conduct proactive monitoring of the research and its impact."_
 
 > _GeoSpatialCDT: project is "of your choosing", and "bespoke" "a significant contribution is required, including staff time, training, data-sharing, use of equipment and facilities". They tal about supervision "in partnership with our academics" and that full funding is required to "secure arising IP"._
 
@@ -108,7 +116,7 @@ _QUESTION: Do PT students have to cost half the total of FT students? Ours take 
 
 _QUESTION: What pattern works for a PT student who is caring? <br/> This is a good scenario tho think about on the diversity theme._
 
-_QUESTION: What do we do about partners from government, NGO, charities and community grous? How do we vary the funding model?
+_QUESTION: What do we do about partners from government, NGO, charities and community groups? How do we vary the funding model?_
 
 _IDEA: Don't pitch part-time to potential funders. Say in proposal that we will encourage PT applicants and offer flexibility in terms of their programme of learning depending upon their circumstances?<br/> This is inclusive._
 
