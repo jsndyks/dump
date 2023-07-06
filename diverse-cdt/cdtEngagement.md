@@ -48,7 +48,7 @@ _We learn about data science and data visualization needs by encouraging partner
 
 > _Raj mentions: the terms "showcase" and "plant visit"._
 
-> _Raj mentions: a "business internship ... to develop a new idea for collaboration with the business" and adds that "This internship must be different from the PhD research and will support transferrable skills. A direct financial contribution to the student’s living costs is expected."updates stylkes_
+> _Raj mentions: a "business internship ... to develop a new idea for collaboration with the business" and adds that "This internship must be different from the PhD research and will support transferrable skills. A direct financial contribution to the student’s living costs is expected."_
 
 > _Jason says: We have internships but not business internships.
 I’m not sure we need these skills internships but am open to persuasion. How do they fit in?_
