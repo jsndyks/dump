@@ -14,14 +14,14 @@ It needs developing into a menu of options for potential collaborators, or perha
  * potential government, NGO & charity partners
  * potential supervisors - they need to know what to expect
 
-JD has drafted this based upon :
+JD has drafted this initial framing of _the offer_ based upon :
  * Raj's **CDT engagement plan V1.0**
- * [GeoSpatialCDT Engagement Opportunities](https://geospatialcdt.ac.uk/wp-content/uploads/2022/11/V1-Engagement-Table.png)
+ * the 'Nottingham' [GeoSpatialCDT Engagement Opportunities](https://geospatialcdt.ac.uk/wp-content/uploads/2022/11/V1-Engagement-Table.png)
   * discussions with Steph
 
  ---
 
-##### Defining the Centre for Doctoral Training ...
+### Defining the Centre for Doctoral Training ...
 
 _Help us co-create the DIVERSE CDT for Data Visualization._
 _We need active partners to identify needs for skills, competencies and research, and to frame these in ways that will generate the people that we need to make use of data and make data useful._
@@ -33,7 +33,7 @@ _We need active partners to identify needs for skills, competencies and research
 
 ---
 
-#### **CDT Community Events**
+### **CDT Community Events**
 
 ##### Short-Term, Low- Effort, Low-Cost Knowledge Sharing ...
 
@@ -60,7 +60,7 @@ I’m not sure we need these skills internships but am open to persuasion. How d
 
 ---
 
-#### **CDT Data Sharing**
+### **CDT Data Sharing**
 
 ##### Data Sharing & Challenges...
 
@@ -84,7 +84,7 @@ This would be more persuasive if we were taking data from NGOs for free - so we 
 
 ---
 
-#### **CDT Research**
+### **CDT Research**
 
 ##### Research and Internships ...
 
