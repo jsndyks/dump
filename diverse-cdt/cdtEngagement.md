@@ -88,7 +88,7 @@ This would be more persuasive if we were taking data from NGOs for free - so we 
 
 ##### Research and Internships ...
 
-_Get research students problem solving and working in your organization in the medium term. Specify research topics by funding PhD students, hosting interns and registering your employees as part-time PhDs so that they can conduct research that is of value to your organization in the workplace, while supported by the CDT ..._
+_Get research students problem solving and working in your organization in the medium term. Specify research topics by funding PhD students, hosting interns and registering your employees as part-time PhDs so that they can conduct research that is of value to your organization in the workplace, in collaboration with University Professors, while supported by the CDT ..._
 
 | _Activity_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | _In-Kind Contribution & Commitment_                                                                      | _Financial Commitment_                                                                                                                                    | _IP_                                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -107,6 +107,8 @@ _NOTE: Fees are at 2023 levels, subject to change, and likely to vary in line wi
 
 > _GeoSpatialCDT: £13.5k per year, over 4 years part-funding, £27k per year, over 4 years fully funded._ 
 
+> _Radu says:  Getting the academic input into analytical decision-making legitimises it for corporate partners.<br/> So emphasize - “work with our academics” …<br/> Companies do things by the year and for strange reasons - the things they do are not always well justified or rationalised!<br/>If you tell them why things are important, and what the possibilities are their minds are blown!<br/> “Depth” is an important issue here. We offer value the beyond deliverables._
+
 ---
 
 ### QUESTIONS & NOTES
@@ -123,6 +125,6 @@ _IDEA: Don't pitch part-time to potential funders. Say in proposal that we will 
 
 ---
 
-V1.0<br/>
+V1.1<br/>
 **Jason DYKES**<br/>
 06/07/23
