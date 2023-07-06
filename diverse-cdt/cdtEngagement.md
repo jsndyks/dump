@@ -48,10 +48,10 @@ _We learn about data science and data visualization needs by encouraging partner
 
 > _Raj mentions: the terms "showcase" and "plant visit"._
 
-> _Raj mentions: a "business internship ... to develop a new idea for collaboration with the business" and adds that "This internship must be different from the PhD research and will support transferrable skills. A direct financial contribution to the student’s living costs is expected." _
+> _Raj mentions: a "business internship ... to develop a new idea for collaboration with the business" and adds that "This internship must be different from the PhD research and will support transferrable skills. A direct financial contribution to the student’s living costs is expected."updates stylkes_
 
 > _Jason says: We have internships but not business internships.
-I’m not sure we need these skills internships but am open to persuasion. How do they fit in? _
+I’m not sure we need these skills internships but am open to persuasion. How do they fit in?_
 
 > _GeoSpatialCDT: use the terms "Innovation festival" and "minimal commitment"._
 
@@ -106,6 +106,7 @@ _NOTE: Fees are at 2023 levels, subject to change, and likely to vary in line wi
 > _GeoSpatialCDT: project is "of your choosing", and "bespoke" "a significant contribution is required, including staff time, training, data-sharing, use of equipment and facilities". They tal about supervision "in partnership with our academics" and that full funding is required to "secure arising IP"._
 
 > _GeoSpatialCDT: £13.5k per year, over 4 years part-funding, £27k per year, over 4 years fully funded._ 
+
 ---
 
 ### QUESTIONS & NOTES
